@@ -1,0 +1,19 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Página web para proyecto final de Diplomatura Global Academy basada en mi voluntariado en Construyendo Caminos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauBataller/ConstruyendoCaminos.git"
+  },
+  "author": "Laura Bataller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauBataller/ConstruyendoCaminos/issues"
+  },
+  "homepage": "https://github.com/LauBataller/ConstruyendoCaminos#readme"
+}
